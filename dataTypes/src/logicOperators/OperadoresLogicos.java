@@ -60,7 +60,7 @@ public class OperadoresLogicos {
 		
 		boolean comparacionCuatro = false;
 		System.out.println(!comparacionCuatro);//true
-
+1
 }
 }
 
