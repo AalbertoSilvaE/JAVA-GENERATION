@@ -18,6 +18,18 @@ public class test {
 		Simi.calcularSalario();
 		Simi.imprimirInfoDentista();
 		
+		
+		//Instancia de Dentista
+		Paciente Chencho = new Paciente("CHNCH1234", "RH Positivo", true, true, "05/oct/2023", "Doc. Simi Lares", false);
+		
+		System.out.println("*********************");
+		System.out.println(Chencho);
+		
+		//Instancia de Paciente con datos obligatorios
+				Paciente Masiosare = new Paciente("MAS12345", false, false);
+				System.out.println("********************");
+				System.out.println(Masiosare);
+		
 
 	}// cierre metodo main
 
