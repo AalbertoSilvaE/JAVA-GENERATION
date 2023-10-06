@@ -22,7 +22,7 @@ public class Paciente {
 		this.numeroSeguroSocial = numeroSeguroSocial;
 		this.tipoSangre = tipoSangre;
 		this.expediente = expediente;
-		private this.seguroGastosMedicos = seguroGastosMedicos;
+		this.seguroGastosMedicos = seguroGastosMedicos;
 		this.cita = cita;
 		this.doctorAsignado = doctorAsignado;
 		this.alergias = alergias;
